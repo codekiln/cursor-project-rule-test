@@ -2,6 +2,8 @@
 
 This repository contains tests for Cursor's project rules functionality.
 
+For more tests and updates, see my logseq-encode-garden page, [CursorAI Project Rule Tests](https://codekiln.github.io/logseq-encode-garden/#/page/cursorai%2Fproject%20rule%2Ftest).
+
 ## Test Cases
 
 ### [Finding Rules Without Globs](results/0.46.11/agent/PASS/find-mdc-no-globs.md)
