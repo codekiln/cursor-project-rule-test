@@ -1,4 +1,4 @@
-# Can Cursor Agent Mode pick up mdc files in subfolders?
+# Can Cursor Agent Mode pick up mdc files in subfolders? `NO` in 0.46
 
 ## Test
 - Close all tabs (even this one)
